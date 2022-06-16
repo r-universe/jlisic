@@ -1,0 +1,18 @@
+[
+  {
+    "package": "cdlTools",
+    "oncran": true
+  },
+  {
+    "package": "meanShiftR",
+    "oncran": true
+  },
+  {
+    "package": "rasterKernelEstimates",
+    "oncran": true
+  },
+  {
+    "package": "SamplingBigData",
+    "oncran": true
+  }
+]
