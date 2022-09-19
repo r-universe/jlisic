@@ -8,6 +8,11 @@
 	url = https://github.com/jlisic/cdltools
 	shallow = true
 	registered = true
+[submodule "meanShiftR"]
+	path = meanShiftR
+	url = https://github.com/jlisic/meanshiftr
+	shallow = true
+	registered = true
 [submodule "rasterKernelEstimates"]
 	path = rasterKernelEstimates
 	url = https://github.com/jlisic/rasterkernelestimates
