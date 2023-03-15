@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "meanShiftR",
-    "oncran": true
-  },
-  {
     "package": "rasterKernelEstimates",
     "oncran": true
   },
   {
     "package": "SamplingBigData",
+    "oncran": true
+  },
+  {
+    "package": "meanShiftR",
     "oncran": true
   }
 ]
