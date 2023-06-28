@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cdlTools"]
 	path = cdlTools
 	url = https://github.com/jlisic/cdltools
-	shallow = true
-	registered = true
 [submodule "meanShiftR"]
 	path = meanShiftR
 	url = https://github.com/jlisic/meanshiftr
-	shallow = true
-	registered = true
 [submodule "rasterKernelEstimates"]
 	path = rasterKernelEstimates
 	url = https://github.com/jlisic/rasterkernelestimates
-	shallow = true
-	registered = true
 [submodule "SamplingBigData"]
 	path = SamplingBigData
 	url = https://github.com/jlisic/samplingbigdata
-	shallow = true
-	registered = true
